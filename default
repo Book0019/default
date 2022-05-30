@@ -1,0 +1,6 @@
+server{
+    listen 80;
+    server_name v1.xxxx.com;
+    index index.html;
+    root /root/www/;
+}
